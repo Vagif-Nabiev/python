@@ -1,6 +1,6 @@
 # Python Programming Exercises 🐍💻
 
-Welcome to my Python programming exercises repository! This is the beginning of our data science journey. Join me in learning fundamental Python concepts together. 🚀📊
+Welcome to my Python programming exercises repository! This is the beginning of our data science journey. Join me in learning fundamental Python concepts together.  🚀📊
 
 ## Introduction
 
