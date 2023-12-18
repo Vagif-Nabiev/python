@@ -22,7 +22,7 @@
 
 
 # Data Types:
-2.1. Name at least five different data types in Python.
+2.1. Name at least five different data types in Python
 
 2.2. How do you check the data type of a variable in Python?
 
